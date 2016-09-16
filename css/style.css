@@ -54,20 +54,20 @@
 .frame-part4 {
   background-color: white;
   width: 20px;
-  height:179px;
+  height:191px;
   position:absolute;
-  top:275px;
-  left:506px;
+  top:266px;
+  left:515px;
   transform: rotate(150deg);
   border-radius: 20px;
 }
 .frame-part5 {
   background-color: white;
-  width: 175px;
+  width: 183px;
   height:20px;
   position:absolute;
-  top:427px;
-  left:393px;
+  top:430px;
+  left:388px;
   border-radius: 20px;
 }
 .saddle {
@@ -303,9 +303,6 @@
   border-top: 34px solid white;
 }
 
-
-/*-------------------*/
-
 .down-seven {
   border-left: 20px solid #008080;
   border-right: 20px solid #DFE87F;
@@ -340,4 +337,17 @@
   border-left: 20px solid #EEC3C0;
   border-right: 20px solid #008080;
   border-top: 34px solid white;
+}
+.copyright {
+  background-color: #EEC3C0;
+  height:54px;
+  width:105px;
+  position:absolute;
+  top:20px;
+  left:600px;
+  border-radius: 10px;
+  font-size:14px;
+  font-family: 'Josefin Sans', sans-serif;
+  padding:10px 5px;
+  color:white;
 }
